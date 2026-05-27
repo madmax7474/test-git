@@ -7,3 +7,6 @@ Ottimo primo invernale.
 * cipolle
 * patate
 * carote
+* zucchine
+* fagioli
+* peperoni
